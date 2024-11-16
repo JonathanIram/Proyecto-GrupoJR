@@ -94,7 +94,7 @@ header {
 .hero {
     text-align: center;
     position: relative; /* Necesario para posicionar el texto sobre la imagen */
-    background: url('/por.jpg') no-repeat center center/cover; /* Imagen de fondo */
+    background: url('por.jpg') no-repeat center center/cover; /* Imagen de fondo */
     padding: 4em 2em; /* Espaciado interno para el contenido */
     margin-top: 5rem;
 
